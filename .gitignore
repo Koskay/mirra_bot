@@ -1,0 +1,6 @@
+__pycache__
+venv
+.env
+.idea
+db.sqlite3
+МИРРА ПРАЙС 01АПР 2023.xlsx
